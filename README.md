@@ -5,6 +5,20 @@
 
 ---
 
+<div id="badges" align="center">
+  <a href="(https://www.linkedin.com/in/anastasiia-kochkina-b536a2278/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="nasti.lynx@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
+  </a>
+  <a href="https://t.me/AiLince">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+---
+
 <p align="end">:ballot_box_with_check: Learning React, JavaScript</p>
 <p align="end">:ballot_box_with_check: Love creativity, always open to new ideas and projects</p> 
 <p align="end">:ballot_box_with_check: Fan of coding, dancing and plush toys</p>
