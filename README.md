@@ -6,7 +6,7 @@
 ---
 
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/anastasiia-kochkina-b536a2278/)">
+  <a href="https://www.linkedin.com/in/anastasiia-kochkina-b536a2278/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="nasti.lynx@gmail.com">
