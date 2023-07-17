@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="150" /></p>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=5BF754&center=true&vCenter=true&width=435&lines=%3C+Hello%2C+World!+%2F%3E" alt="Typing SVG" /></a></h1>
-<h3 align="center">:woman_technologist: I'm a Junior Front-End Developer :woman_technologist:</h3>
+<h3 align="center">I'm a Junior Front-End Developer</h3>
 <h3 align="center">with a passion for creating interactive and dynamic web applications</h3>
 
 ---
