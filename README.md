@@ -26,7 +26,7 @@
 
 ---
 
-### Languages and Tools:
+### :octocat: Languages and Tools:
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -42,6 +42,6 @@
 
 ---
 
-### My Stats:
+### :octocat: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AiLince&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiLince&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
